@@ -1,0 +1,15 @@
+c:\Users\Administrator\Desktop\csharp_assignment3\assg3.tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\Administrator\Desktop\csharp_assignment3\assg3.tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+c:\Users\Administrator\Desktop\csharp_assignment3\assg3.tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+c:\Users\Administrator\Desktop\csharp_assignment3\assg3.tests\bin\Debug\netcoreapp2.0\assg3.tests.deps.json
+c:\Users\Administrator\Desktop\csharp_assignment3\assg3.tests\bin\Debug\netcoreapp2.0\assg3.tests.runtimeconfig.json
+c:\Users\Administrator\Desktop\csharp_assignment3\assg3.tests\bin\Debug\netcoreapp2.0\assg3.tests.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\csharp_assignment3\assg3.tests\bin\Debug\netcoreapp2.0\assg3.tests.dll
+c:\Users\Administrator\Desktop\csharp_assignment3\assg3.tests\bin\Debug\netcoreapp2.0\assg3.tests.pdb
+c:\Users\Administrator\Desktop\csharp_assignment3\assg3.tests\bin\Debug\netcoreapp2.0\csharp_assignment3.dll
+c:\Users\Administrator\Desktop\csharp_assignment3\assg3.tests\bin\Debug\netcoreapp2.0\csharp_assignment3.pdb
+c:\Users\Administrator\Desktop\csharp_assignment3\assg3.tests\obj\Debug\netcoreapp2.0\assg3.tests.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\csharp_assignment3\assg3.tests\obj\Debug\netcoreapp2.0\assg3.tests.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\csharp_assignment3\assg3.tests\obj\Debug\netcoreapp2.0\assg3.tests.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\csharp_assignment3\assg3.tests\obj\Debug\netcoreapp2.0\assg3.tests.dll
+c:\Users\Administrator\Desktop\csharp_assignment3\assg3.tests\obj\Debug\netcoreapp2.0\assg3.tests.pdb
