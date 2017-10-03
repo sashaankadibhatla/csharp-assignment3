@@ -1,6 +1,8 @@
 using System;
 using csharp_assignment3;
-using definition;
+using rectangle;
+using square;
+using triangle;
 namespace finale{
     
     public class Maths{
